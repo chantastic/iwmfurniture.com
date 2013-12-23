@@ -1,13 +1,13 @@
 #primary-content ol {
-	padding:1.5em .3em;
-	list-style-type:none;
+  padding:1.5em .3em;
+  list-style-type:none;
 }
 #primary-content li {
 }
 span {
-	float:left;
-	width:10em;
+  float:left;
+  width:10em;
 }
 p {
-	display:block;
+  display:block;
 }

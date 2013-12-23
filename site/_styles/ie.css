@@ -1,4 +1,4 @@
 #masthead h1 {
-	background-image:none;
-	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/images/mh_logo.png", sizingMethod="crop");
+  background-image:none;
+  filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/images/mh_logo.png", sizingMethod="crop");
 }

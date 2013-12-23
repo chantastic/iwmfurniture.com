@@ -6,36 +6,36 @@ h2 {font-size:1.3em;}
 body {background: transparent url(../images/mh_background.gif) repeat-x;}
 
 #wrap {
-	position:relative;
-	margin:0 auto;
-	width:850px;}
+  position:relative;
+  margin:0 auto;
+  width:850px;}
 
 #masthead {
-	width:100%;
-	height:100px;
-	background:transparent url(../images/mh_background.gif) repeat-x;}
+  width:100%;
+  height:100px;
+  background:transparent url(../images/mh_background.gif) repeat-x;}
 #masthead h1 {
-	float:left;
-	margin:30px 0 0 0;
-	width:250px;
-	height:75px;
-	background: transparent url(../images/mh_logo.png) no-repeat;
-	text-indent:-3000em;}
+  float:left;
+  margin:30px 0 0 0;
+  width:250px;
+  height:75px;
+  background: transparent url(../images/mh_logo.png) no-repeat;
+  text-indent:-3000em;}
 
 #container, #foot {
-	margin:20px 0 10px 0;
-	width:100%;}
+  margin:20px 0 10px 0;
+  width:100%;}
 #container {
-	float:left;
-	min-height:440px;}
+  float:left;
+  min-height:440px;}
 
 #foot {
-	clear:both;
-	border-top:1px #ddd solid;}
+  clear:both;
+  border-top:1px #ddd solid;}
 #foot p {
-	text-align:center;
-	color:#aaa;
-	font-size:.6em;}
+  text-align:center;
+  color:#aaa;
+  font-size:.6em;}
 
 
 
@@ -43,23 +43,23 @@ body {background: transparent url(../images/mh_background.gif) repeat-x;}
 ****************************************/
 
 #primary-nav {
-	float:right;
-	margin:8px 0 0 0;
-	height:91px;
+  float:right;
+  margin:8px 0 0 0;
+  height:91px;
 }
 #primary-nav li {
-	float:left;
-	list-style:none;
-	padding-top:55px;
-	padding-left: 1em;
+  float:left;
+  list-style:none;
+  padding-top:55px;
+  padding-left: 1em;
 }
 #primary-nav a {
-	display: block; 
-	text-decoration:none; 
+  display: block;
+  text-decoration:none;
 }
 #primary-nav a:hover {
-	border-bottom:1px black dotted;
-	margin-bottom:-1px;
+  border-bottom:1px black dotted;
+  margin-bottom:-1px;
 }
 
 
@@ -68,59 +68,59 @@ body {background: transparent url(../images/mh_background.gif) repeat-x;}
 ****************************************/
 
 #primary-content {
-	/*float:left; probably not neccesary */
-	width: 550px;}
+  /*float:left; probably not neccesary */
+  width: 550px;}
 #primary-content p {
-	text-align:justify;
-	padding:.5em .3em;
-	font-size:.8em;}
+  text-align:justify;
+  padding:.5em .3em;
+  font-size:.8em;}
 
 #secondary-content {
-	float:right;
-	width: 250px;
-	background-color:#eee;
-	margin:-.5em;
-	padding:.5em;}
+  float:right;
+  width: 250px;
+  background-color:#eee;
+  margin:-.5em;
+  padding:.5em;}
 #secondary-content ol {
-	font-size:.8em;
-	list-style-type:none;
-	padding:1.2em;}
+  font-size:.8em;
+  list-style-type:none;
+  padding:1.2em;}
 
 
 /* body #contact
 ****************************************/
 
 #contact #primary-content ol {
-	padding:1.5em .3em;
-	list-style-type:none;}
+  padding:1.5em .3em;
+  list-style-type:none;}
 #contact #contact-info {
-	padding-top:1em;}
+  padding-top:1em;}
 #contact #contact-info li {
-	list-style-type:none;
-	padding:3px;
-	font-size:.8em;}
+  list-style-type:none;
+  padding:3px;
+  font-size:.8em;}
 
 /* body #catalogs
 ****************************************/
 
 #catalogs .catalog-listing {
-	float:left;
-	margin:1em 7px;}
+  float:left;
+  margin:1em 7px;}
 #catalogs .catalog-listing a {
-	display:block;
-	width: 102px;
-	border:1px #ddd solid;
-	text-decoration:none;}
+  display:block;
+  width: 102px;
+  border:1px #ddd solid;
+  text-decoration:none;}
 #catalogs .catalog-listing a:hover {
-	border-color:#666;}
+  border-color:#666;}
 #catalogs .catalog-listing img {
-	width:100px;
-	border:1px white solid;}
+  width:100px;
+  border:1px white solid;}
 #catalogs .catalog-listing span {
-	font-size:.8em;
-	border-top:1px #ddd solid;
-	display:block;
-	text-align:center;}
+  font-size:.8em;
+  border-top:1px #ddd solid;
+  display:block;
+  text-align:center;}
 
 
 /* body #projects
@@ -128,31 +128,31 @@ body {background: transparent url(../images/mh_background.gif) repeat-x;}
 
 #projects h2 {clear:left;}
 #projects .project-listing {
-	float:left;
-	margin:1em 7px;}
+  float:left;
+  margin:1em 7px;}
 #projects .project-listing a {
-	display:block;
-	width:258px;
-	border:1px #ddd solid;
-	text-decoration:none;}
+  display:block;
+  width:258px;
+  border:1px #ddd solid;
+  text-decoration:none;}
 #projects .project-listing a:hover {
-	border-color:#666;}
+  border-color:#666;}
 #projects .project-listing img {
-	width:256px;
-	height:125px;
-	border:1px white solid;}
+  width:256px;
+  height:125px;
+  border:1px white solid;}
 #projects .project-listing span {
-	font-size:.8em;
-	border-top:1px #ddd solid;
-	display:block;
-	text-align:center;}
+  font-size:.8em;
+  border-top:1px #ddd solid;
+  display:block;
+  text-align:center;}
 #projects #flashcontent {
-	width:100%;
-	height:400px;}
+  width:100%;
+  height:400px;}
 
 
 /* body #other
 ****************************************/
 
 #splash {
-	margin:0 auto;text-align:center;}
+  margin:0 auto;text-align:center;}

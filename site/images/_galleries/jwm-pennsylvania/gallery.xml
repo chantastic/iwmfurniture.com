@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery
+	maxImageWidth="700"
+	maxImageHeight="480"
+	textColor="0xFFFFFF"
+	frameColor="0xffffff"
+	frameWidth="5"
+	stagePadding="10"
+	thumbnailColumns="3"
+	thumbnailRows="2"
+	navPosition="left"
+	title="JW Marriott Pennsylvania"
+	enableRightClickOpen="true"
+	backgroundImagePath=""
+	imagePath="../../../site/images/_galleries/jwm-pennsylvania/"
+	thumbPath="../../../site/images/_galleries/jwm-pennsylvania/">
+	
+<image>
+	<filename>_IMG_6044.jpg</filename>
+</image>
+<image>
+	<filename>_IMG_6031.jpg</filename>
+</image>
+<image>
+	<filename>_IMG_6026.jpg</filename>
+</image>
+<image>
+	<filename>_IMG_6291.jpg</filename>
+</image>
+<image>
+	<filename>_IMG_6268.jpg</filename>
+</image>
+<image>
+	<filename>_IMG_6316.jpg</filename>
+</image>
+<image>
+	<filename>_IMG_6304.jpg</filename>
+</image>
+<image>
+	<filename>_IMG_6326.jpg</filename>
+</image>
+<image>
+	<filename>_IMG_6410.jpg</filename>
+</image>
+<image>
+	<filename>_IMG_6415.jpg</filename>
+</image>
+<image>
+	<filename>_IMG_6452.jpg</filename>
+</image>
+<image>
+	<filename>_IMG_6423.jpg</filename>
+</image>
+<image>
+	<filename>_IMG_6234.jpg</filename>
+</image>
+<image>
+	<filename>_IMG_6134.jpg</filename>
+</image>
+<image>
+	<filename>_IMG_6142.jpg</filename>
+</image>
+<image>
+	<filename>_IMG_6166.jpg</filename>
+</image>
+</simpleviewerGallery>

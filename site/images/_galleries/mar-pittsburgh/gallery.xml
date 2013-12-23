@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery
+	maxImageWidth="700"
+	maxImageHeight="480"
+	textColor="0xFFFFFF"
+	frameColor="0xffffff"
+	frameWidth="5"
+	stagePadding="10"
+	thumbnailColumns="3"
+	thumbnailRows="2"
+	navPosition="left"
+	title="Marriott Pittsburgh"
+	enableRightClickOpen="true"
+	backgroundImagePath=""
+	imagePath="../../../site/images/_galleries/mar-pittsburgh/"
+	thumbPath="../../../site/images/_galleries/mar-pittsburgh/">
+	
+<image>
+	<filename>_DSC_2783.jpg</filename>
+</image>
+<image>
+	<filename>_DSC_2792.jpg</filename>
+</image>
+<image>
+	<filename>_DSC_2735.jpg</filename>
+</image>
+<image>
+	<filename>_DSC_2774.jpg</filename>
+</image>
+<image>
+	<filename>_DSC_2947.jpg</filename>
+</image>
+<image>
+	<filename>_DSC_2858.jpg</filename>
+</image>
+<image>
+	<filename>_DSC_2871.jpg</filename>
+</image>
+<image>
+	<filename>_DSC_2900.jpg</filename>
+</image>
+<image>
+	<filename>_DSC_2794.jpg</filename>
+</image>
+<image>
+	<filename>_DSC_2829.jpg</filename>
+</image>
+<image>
+	<filename>_DSC_2842.jpg</filename>
+</image>
+<image>
+	<filename>_DSC_2971.jpg</filename>
+</image>
+</simpleviewerGallery>

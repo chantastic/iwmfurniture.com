@@ -1,0 +1,46 @@
+/*
+.project-listing {
+	float:left;
+	width:252px;
+	border:1px #ddd solid;
+	margin:1em 10px;
+}
+
+
+*/
+
+h2 {
+	clear:left;
+}
+.project-listing {
+	float:left;
+	margin:1em 7px;
+}
+
+.project-listing a {
+	display:block;
+	width:258px;
+	border:1px #ddd solid;
+	text-decoration:none;
+}
+
+.project-listing a:hover {
+	border-color:#666;
+}
+
+.project-listing img {
+	width:256px;
+	height:125px;
+	border:1px white solid;
+}
+
+.project-listing span {
+	font-size:.8em;
+	border-top:1px #ddd solid;
+	display:block;
+	text-align:center;
+}
+#flashcontent {
+	width:100%;
+	height:400px;
+}

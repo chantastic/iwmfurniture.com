@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <simpleviewerGallery maxImageWidth="700" maxImageHeight="480" textColor="0xFFFFFF" frameColor="0xffffff" frameWidth="5" stagePadding="10" thumbnailColumns="3" thumbnailRows="2" navPosition="left" title="Wyndham Gettysburgh" enableRightClickOpen="true" backgroundImagePath="" imagePath="../../../site/images/galleries/wyn-gettysburgh/" thumbPath="../../../site/images/galleries/wyn-gettysburgh/">
 <image>
-	<filename>_DSC_2685.jpg</filename>
+	<filename>DSC_2685.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7464.jpg</filename>
+	<filename>IMG_7464.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7465.jpg</filename>
+	<filename>IMG_7465.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7308.jpg</filename>
+	<filename>IMG_7308.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7280.jpg</filename>
+	<filename>IMG_7280.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7436.jpg</filename>
+	<filename>IMG_7436.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7325.jpg</filename>
+	<filename>IMG_7325.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7442.jpg</filename>
+	<filename>IMG_7442.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7331.jpg</filename>
+	<filename>IMG_7331.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7449.jpg</filename>
+	<filename>IMG_7449.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7376.jpg</filename>
+	<filename>IMG_7376.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7451.jpg</filename>
+	<filename>IMG_7451.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7293.jpg</filename>
+	<filename>IMG_7293.jpg</filename>
 </image>
 </simpleviewerGallery>

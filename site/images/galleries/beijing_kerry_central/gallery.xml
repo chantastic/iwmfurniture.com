@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery
+	maxImageWidth="700"
+	maxImageHeight="480"
+	textColor="0xFFFFFF"
+	frameColor="0xffffff"
+	frameWidth="5"
+	stagePadding="10"
+	thumbnailColumns="3"
+	thumbnailRows="2"
+	navPosition="left"
+	title="Beijing Kerry Central Hotel"
+	enableRightClickOpen="true"
+	backgroundImagePath=""
+	imagePath="/images/galleries/beijing_kerry_central/"
+	thumbPath="/images/galleries/beijing_kerry_central/">
+
+<image>
+	<filename>1.jpg</filename>
+	<caption>Caption 1</caption>
+</image>
+<image>
+	<filename>2.jpg</filename>
+	<caption>Caption 2</caption>
+</image>
+<image>
+	<filename>3.jpg</filename>
+	<caption>Caption 3</caption>
+</image>
+<image>
+	<filename>4.jpg</filename>
+	<caption>Caption 4</caption>
+</image>
+</simpleviewerGallery>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="700" maxImageHeight="480" textColor="0xFFFFFF" frameColor="0xffffff" frameWidth="5" stagePadding="10" thumbnailColumns="3" thumbnailRows="2" navPosition="left" title="Double Tree - Hotel Roanoke" enableRightClickOpen="true" backgroundImagePath="" imagePath="../../../site/images/galleries/dbl-hotel_roanoke/" thumbPath="../../../site/images/galleries/dbl-hotel_roanoke/">
+<image>
+	<filename>01.jpg</filename>
+</image>
+<image>
+	<filename>02.jpg</filename>
+</image>
+<image>
+	<filename>03.jpg</filename>
+</image>
+<image>
+	<filename>04.jpg</filename>
+</image>
+<image>
+	<filename>05.jpg</filename>
+</image>
+<image>
+	<filename>06.jpg</filename>
+</image>
+<image>
+	<filename>07.jpg</filename>
+</image>
+<image>
+	<filename>08.jpg</filename>
+</image>
+<image>
+	<filename>09.jpg</filename>
+</image>
+<image>
+	<filename>10.jpg</filename>
+</image>
+<image>
+	<filename>11.jpg</filename>
+</image>
+<image>
+	<filename>12.jpg</filename>
+</image>
+<image>
+	<filename>13.jpg</filename>
+</image>
+<image>
+	<filename>14.jpg</filename>
+</image>
+<image>
+	<filename>15.jpg</filename>
+</image>
+<image>
+	<filename>16.jpg</filename>
+</image>
+<image>
+	<filename>17.jpg</filename>
+</image>
+<image>
+	<filename>18.jpg</filename>
+</image>
+</simpleviewerGallery>

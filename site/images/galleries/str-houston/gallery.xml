@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery
+	maxImageWidth="700"
+	maxImageHeight="480"
+	textColor="0xFFFFFF"
+	frameColor="0xffffff"
+	frameWidth="5"
+	stagePadding="10"
+	thumbnailColumns="3"
+	thumbnailRows="2"
+	navPosition="left"
+	title="St. Regis Houston"
+	enableRightClickOpen="true"
+	backgroundImagePath=""
+	imagePath="../../../site/images/galleries/str-houston/"
+	thumbPath="../../../site/images/galleries/str-houston/">
+<image>
+	<filename>169.jpg</filename>
+</image>
+<image>
+	<filename>237.jpg</filename>
+</image>
+<image>
+	<filename>088.jpg</filename>
+</image>
+<image>
+	<filename>038.jpg</filename>
+</image>
+<image>
+	<filename>381.jpg</filename>
+</image>
+<image>
+	<filename>330.jpg</filename>
+</image>
+<image>
+	<filename>010.jpg</filename>
+</image>
+<image>
+	<filename>387.jpg</filename>
+</image>
+<image>
+	<filename>409.jpg</filename>
+</image>
+<image>
+	<filename>129.jpg</filename>
+</image>
+<image>
+	<filename>414.jpg</filename>
+</image>
+<image>
+	<filename>287.jpg</filename>
+</image>
+<image>
+	<filename>293.jpg</filename>
+</image>
+<image>
+	<filename>357.jpg</filename>
+</image>
+<image>
+	<filename>365.jpg</filename>
+</image>
+<image>
+	<filename>375.jpg</filename>
+</image>
+<image>
+	<filename>420.jpg</filename>
+</image>
+<image>
+	<filename>439.jpg</filename>
+</image>
+<image>
+	<filename>200.jpg</filename>
+</image>
+
+</simpleviewerGallery>

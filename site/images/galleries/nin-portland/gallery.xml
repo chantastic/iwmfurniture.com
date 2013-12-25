@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="700" maxImageHeight="480" textColor="0xFFFFFF" frameColor="0xffffff" frameWidth="5" stagePadding="10" thumbnailColumns="3" thumbnailRows="2" navPosition="left" title="The Nines of Portland" enableRightClickOpen="true" backgroundImagePath="" imagePath="../../../site/images/galleries/nin-portland/" thumbPath="../../../site/images/galleries/nin-portland/">
+<image>
+	<filename>008.jpg</filename>
+</image>
+<image>
+	<filename>001.jpg</filename>
+</image>
+<image>
+	<filename>002.jpg</filename>
+</image>
+<image>
+	<filename>005.jpg</filename>
+</image>
+<image>
+	<filename>020.jpg</filename>
+</image>
+<image>
+	<filename>023.jpg</filename>
+</image>
+<image>
+	<filename>028.jpg</filename>
+</image>
+<image>
+	<filename>029.jpg</filename>
+</image>
+<image>
+	<filename>033.jpg</filename>
+</image>
+<image>
+	<filename>030.jpg</filename>
+</image>
+<image>
+	<filename>035.jpg</filename>
+</image>
+<image>
+	<filename>036.jpg</filename>
+</image>
+<image>
+	<filename>055.jpg</filename>
+</image>
+<image>
+	<filename>038.jpg</filename>
+</image>
+<image>
+	<filename>039.jpg</filename>
+</image>
+<image>
+	<filename>041.jpg</filename>
+</image>
+<image>
+	<filename>043.jpg</filename>
+</image>
+<image>
+	<filename>048.jpg</filename>
+</image>
+<image>
+	<filename>018.jpg</filename>
+</image>
+<image>
+	<filename>045.jpg</filename>
+</image>
+<image>
+	<filename>050.jpg</filename>
+</image>
+<image>
+	<filename>052.jpg</filename>
+</image>
+<image>
+	<filename>053.jpg</filename>
+</image>
+
+</simpleviewerGallery>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="700" maxImageHeight="480" textColor="0xFFFFFF" frameColor="0xffffff" frameWidth="5" stagePadding="10" thumbnailColumns="3" thumbnailRows="2" navPosition="left" title="Double Tree - Portland" enableRightClickOpen="true" backgroundImagePath="" imagePath="../../../site/images/galleries/dbl-portland/" thumbPath="../../../site/images/galleries/dbl-portland/">
+<image>
+	<filename>023.jpg</filename>
+</image>
+<image>
+	<filename>001.jpg</filename>
+</image>
+<image>
+	<filename>002.jpg</filename>
+</image>
+<image>
+	<filename>005.jpg</filename>
+</image>
+<image>
+	<filename>006.jpg</filename>
+</image>
+<image>
+	<filename>010.jpg</filename>
+</image>
+<image>
+	<filename>011.jpg</filename>
+</image>
+<image>
+	<filename>013.jpg</filename>
+</image>
+<image>
+	<filename>014.jpg</filename>
+</image>
+<image>
+	<filename>015.jpg</filename>
+</image>
+<image>
+	<filename>017.jpg</filename>
+</image>
+<image>
+	<filename>016.jpg</filename>
+</image>
+<image>
+	<filename>018.jpg</filename>
+</image>
+<image>
+	<filename>019.jpg</filename>
+</image>
+
+</simpleviewerGallery>

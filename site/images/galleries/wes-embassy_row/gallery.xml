@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="700" maxImageHeight="480" textColor="0xFFFFFF" frameColor="0xffffff" frameWidth="5" stagePadding="10" thumbnailColumns="3" thumbnailRows="2" navPosition="left" title="Westin - Embassy Row" enableRightClickOpen="true" backgroundImagePath="" imagePath="../../../site/images/galleries/wes-embassy_row/" thumbPath="../../../site/images/galleries/wes-embassy_row/">
+<image>
+	<filename>01.jpg</filename>
+</image>
+<image>
+	<filename>02.jpg</filename>
+</image>
+<image>
+	<filename>03.jpg</filename>
+</image>
+<image>
+	<filename>04.jpg</filename>
+</image>
+<image>
+	<filename>05.jpg</filename>
+</image>
+<image>
+	<filename>06.jpg</filename>
+</image>
+<image>
+	<filename>07.jpg</filename>
+</image>
+<image>
+	<filename>08.jpg</filename>
+</image>
+<image>
+	<filename>09.jpg</filename>
+</image>
+<image>
+	<filename>10.jpg</filename>
+</image>
+<image>
+	<filename>11.jpg</filename>
+</image>
+<image>
+	<filename>12.jpg</filename>
+</image>
+</simpleviewerGallery>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery
+	maxImageWidth="700"
+	maxImageHeight="480"
+	textColor="0xFFFFFF"
+	frameColor="0xffffff"
+	frameWidth="5"
+	stagePadding="10"
+	thumbnailColumns="3"
+	thumbnailRows="2"
+	navPosition="left"
+	title="Hilton Dalian"
+	enableRightClickOpen="true"
+	backgroundImagePath=""
+	imagePath="/images/galleries/hilton_dalian/"
+	thumbPath="/images/galleries/hilton_dalian/">
+<image>
+	<filename>1.jpg</filename>
+	<caption>Caption 1</caption>
+</image>
+<image>
+	<filename>2.jpg</filename>
+	<caption>Caption 2</caption>
+</image>
+<image>
+	<filename>3.jpg</filename>
+	<caption>Caption 3</caption>
+</image>
+<image>
+	<filename>4.jpg</filename>
+	<caption>Caption 4</caption>
+</image>
+<image>
+	<filename>5.jpg</filename>
+	<caption>Caption 5</caption>
+</image>
+<image>
+	<filename>6.jpg</filename>
+	<caption>Caption 6</caption>
+</image>
+<image>
+	<filename>7.jpg</filename>
+	<caption>Caption 7</caption>
+</image>
+<image>
+	<filename>8.jpg</filename>
+	<caption>Caption 8</caption>
+</image>
+<image>
+	<filename>9.jpg</filename>
+	<caption>Caption 10</caption>
+</image>
+<image>
+	<filename>10.jpg</filename>
+	<caption>Caption 9</caption>
+</image>
+<image>
+	<filename>11.jpg</filename>
+	<caption>Caption 11</caption>
+</image>
+<image>
+	<filename>12.jpg</filename>
+	<caption>Caption 12</caption>
+</image>
+<image>
+	<filename>12.jpg</filename>
+	<caption>Caption 12</caption>
+</image>
+<image>
+	<filename>13.jpg</filename>
+	<caption>Caption 12</caption>
+</image>
+<image>
+	<filename>14.jpg</filename>
+	<caption>Caption 12</caption>
+</image>
+<image>
+	<filename>15.jpg</filename>
+	<caption>Caption 11</caption>
+</image>
+<image>
+	<filename>16.jpg</filename>
+	<caption>Caption 12</caption>
+</image>
+<image>
+	<filename>17.jpg</filename>
+	<caption>Caption 12</caption>
+</image>
+<image>
+	<filename>18.jpg</filename>
+	<caption>Caption 12</caption>
+</image>
+<image>
+	<filename>19.jpg</filename>
+	<caption>Caption 12</caption>
+</image>
+</simpleviewerGallery>

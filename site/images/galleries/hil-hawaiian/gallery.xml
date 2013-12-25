@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery
+	maxImageWidth="700"
+	maxImageHeight="480"
+	textColor="0xFFFFFF"
+	frameColor="0xffffff"
+	frameWidth="5"
+	stagePadding="10"
+	thumbnailColumns="3"
+	thumbnailRows="2"
+	navPosition="left"
+	title="Hilton Hawaiian Village ( tapa tower )"
+	enableRightClickOpen="true"
+	backgroundImagePath=""
+	imagePath="../../../site/images/galleries/hil-hawaiian/"
+	thumbPath="../../../site/images/galleries/hil-hawaiian/">
+<image>
+	<filename>1.jpg</filename>
+</image>
+<image>
+	<filename>2.jpg</filename>
+</image>
+<image>
+	<filename>3.jpg</filename>
+</image>
+<image>
+	<filename>4.jpg</filename>
+</image>
+<image>
+	<filename>5.jpg</filename>
+</image>
+<image>
+	<filename>6.jpg</filename>
+</image>
+<image>
+	<filename>7.jpg</filename>
+</image>
+<image>
+	<filename>8.jpg</filename>
+</image>
+</simpleviewerGallery>

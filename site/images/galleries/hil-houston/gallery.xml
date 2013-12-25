@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery
+	maxImageWidth="700"
+	maxImageHeight="480"
+	textColor="0xFFFFFF"
+	frameColor="0xffffff"
+	frameWidth="5"
+	stagePadding="10"
+	thumbnailColumns="3"
+	thumbnailRows="2"
+	navPosition="left"
+	title="Hilton Houston North"
+	enableRightClickOpen="true"
+	backgroundImagePath=""
+	imagePath="../../../site/images/galleries/hil-houston/"
+	thumbPath="../../../site/images/galleries/hil-houston/">
+<image>
+	<filename>002.jpg</filename>
+</image>
+<image>
+	<filename>027.jpg</filename>
+</image>
+<image>
+	<filename>104.jpg</filename>
+</image>
+<image>
+	<filename>135.jpg</filename>
+</image>
+<image>
+	<filename>042.jpg</filename>
+</image>
+<image>
+	<filename>138.jpg</filename>
+</image>
+<image>
+	<filename>060.jpg</filename>
+</image>
+<image>
+	<filename>062.jpg</filename>
+</image>
+<image>
+	<filename>069.jpg</filename>
+</image>
+<image>
+	<filename>078.jpg</filename>
+</image>
+<image>
+	<filename>098.jpg</filename>
+</image>
+<image>
+	<filename>092.jpg</filename>
+</image>
+<image>
+	<filename>094.jpg</filename>
+</image>
+<image>
+	<filename>119.jpg</filename>
+</image>
+<image>
+	<filename>125.jpg</filename>
+</image>
+<image>
+	<filename>129.jpg</filename>
+</image>
+<image>
+	<filename>114.jpg</filename>
+</image>
+<image>
+	<filename>157.jpg</filename>
+</image>
+<image>
+	<filename>160.jpg</filename>
+</image>
+<image>
+	<filename>169.jpg</filename>
+</image>
+</simpleviewerGallery>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGaller
+	maxImageWidth="700"
+	maxImageHeight="480"
+	textColor="0xFFFFFF"
+	frameColor="0xffffff"
+	frameWidth="5"
+	stagePadding="10"
+	thumbnailColumns="3"
+	thumbnailRows="2"
+	navPosition="left"
+	title="Hilton Changqing"
+	enableRightClickOpen="true"
+	backgroundImagePath=""
+	imagePath="/images/galleries/hilton_chongqing/"
+	thumbPath="/images/galleries/hilton_chongqing/">
+
+<image>
+	<filename>1.jpg</filename>
+	<caption>Caption 1</caption>
+</image>
+<image>
+	<filename>2.jpg</filename>
+	<caption>Caption 2</caption>
+</image>
+<image>
+	<filename>3.jpg</filename>
+	<caption>Caption 3</caption>
+</image>
+</simpleviewerGallery>

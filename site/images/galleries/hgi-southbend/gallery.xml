@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery
+	maxImageWidth="720"
+	maxImageHeight="480"
+	textColor="0xFFFFFF"
+	frameColor="0xffffff"
+	frameWidth="5"
+	stagePadding="10"
+	thumbnailColumns="3"
+	thumbnailRows="2"
+	navPosition="left"
+	title="Hilton Garden Inn - South Bend"
+	enableRightClickOpen="true"
+	backgroundImagePath=""
+	imagePath="../../../site/images/galleries/hgi-southbend/"
+	thumbPath="../../../site/images/galleries/hgi-southbend/">
+<image>
+	<filename>001.jpg</filename>
+</image>
+<image>
+	<filename>002.jpg</filename>
+</image>
+<image>
+	<filename>003.jpg</filename>
+</image>
+<image>
+	<filename>004.jpg</filename>
+</image>
+<image>
+	<filename>005.jpg</filename>
+</image>
+<image>
+	<filename>006.jpg</filename>
+</image>
+<image>
+	<filename>007.jpg</filename>
+</image>
+<image>
+	<filename>008.jpg</filename>
+</image>
+<image>
+	<filename>009.jpg</filename>
+</image>
+<image>
+	<filename>010.jpg</filename>
+</image>
+<image>
+	<filename>011.jpg</filename>
+</image>
+<image>
+	<filename>012.jpg</filename>
+</image>
+<image>
+	<filename>013.jpg</filename>
+</image>
+<image>
+	<filename>014.jpg</filename>
+</image>
+<image>
+	<filename>015.jpg</filename>
+</image>
+</simpleviewerGallery>

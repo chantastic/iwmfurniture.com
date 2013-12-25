@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <simpleviewerGallery maxImageWidth="700" maxImageHeight="480" textColor="0xFFFFFF" frameColor="0xffffff" frameWidth="5" stagePadding="10" thumbnailColumns="3" thumbnailRows="2" navPosition="left" title="Embassy Suites Baltimore" enableRightClickOpen="true" backgroundImagePath="" imagePath="../../../site/images/galleries/es-baltimore/" thumbPath="../../../site/images/galleries/es-baltimore/">
 <image>
-	<filename>_IMG_6926.jpg</filename>
+	<filename>IMG_6926.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_6977.jpg</filename>
+	<filename>IMG_6977.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_6992.jpg</filename>
+	<filename>IMG_6992.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7084.jpg</filename>
+	<filename>IMG_7084.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7091.jpg</filename>
+	<filename>IMG_7091.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7098.jpg</filename>
+	<filename>IMG_7098.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7106.jpg</filename>
+	<filename>IMG_7106.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7117.jpg</filename>
+	<filename>IMG_7117.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7133.jpg</filename>
+	<filename>IMG_7133.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7158.jpg</filename>
+	<filename>IMG_7158.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7195.jpg</filename>
+	<filename>IMG_7195.jpg</filename>
 </image>
 <image>
-	<filename>_IMG_7240.jpg</filename>
+	<filename>IMG_7240.jpg</filename>
 </image>
 </simpleviewerGallery>
